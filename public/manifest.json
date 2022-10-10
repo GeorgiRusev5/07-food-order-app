@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Vito's Place",
+  "name": "Online Food Ordering Platform",
   "icons": [
     {
       "src": "favicon.ico",
